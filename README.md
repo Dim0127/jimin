@@ -1,4 +1,10 @@
-# jimin  
+# jimin
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&text=Jimin's%20Github&desc=Web%20Fullstack%20Development&fontAlign=55&Desc&descAlign=80)
+
+<div align="center">
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjmrabbit)](https://solved.ac/sjmrabbit)
+</div>
 
 ### Language
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white"><br>
